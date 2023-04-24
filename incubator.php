@@ -32,5 +32,5 @@
 
             $response  = '<?xml version="1.0" encoding="UTF-8"?>';
     $response .= '<Response>';
-    $response .= '<Dial record="true" sequential="true" phoneNumbers="+254794940160" ringbackTone="http://mymediafile.com/playme.mp3" />';
+    $response .= '<Dial record="true" sequential="true" phoneNumbers="+254794940160"  />';
     $response .= '</Response>';

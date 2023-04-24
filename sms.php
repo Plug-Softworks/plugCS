@@ -39,7 +39,7 @@ try {
         'from'    => $from
     ]);
 
-    // print_r($result);
+    print_r($result);
 } catch (Exception $e) {
     // echo "Error: ".$e->getMessage();
 }
